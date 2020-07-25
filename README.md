@@ -36,8 +36,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am not a professiona
 		Learn Germany()
 		Create SOProject()
 		Finish my old 1000 project 😅()
-		# Assume 10 more awesome ambitions here  ;)
-	
+		
  ```
 
 
