@@ -3,7 +3,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am not a professiona
 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annu-jolly/)](https://www.linkedin.com/in/annu-jolly/) [![Gmail Badge](https://img.shields.io/badge/-annujolly17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annujolly17@gmail.com)](mailto:yasserth19@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-yasserth19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasserth19@gmail.com)](mailto:yasserth19@gmail.com)
 
 
 
