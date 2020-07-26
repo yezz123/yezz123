@@ -1,5 +1,5 @@
 <h2> Hello, this is Yezz123  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img width="480" height="480" align='right' src="https://user-images.githubusercontent.com/52716203/88455539-f2e3e480-ce6d-11ea-9825-55b25f9caa05.jpg">
-I am Yasser Tahiri, a self taught programmer. Even though I am not a professional programmer , I love the world of coding. I am trying to create magic with 0's and 1's
+I am Yasser Tahiri, a self taught programmer. Even though I am a senior programmer , I love the world of coding. I am trying to create magic with 0's and 1's
 
 <br/>
 
