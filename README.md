@@ -5,6 +5,14 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a senior programm
 
 [![Gmail Badge](https://img.shields.io/badge/-yasserth19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasserth19@gmail.com)](mailto:yasserth19@gmail.com)
 
+<a href="https://twitter.com/Thyasser1">
+  <img align="left" alt="yezz123 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/XXKxMpq">
+  <img align="left" alt="Yezz123's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+
 
 
 ## :computer: Technologies I Love
@@ -43,3 +51,10 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a senior programm
 ![yezz123's github stats](https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&hide=[%22issues%22])
  
  
+ 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/yezz123/github-readme-stats)*
+
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact&theme=radical" />
+</a>
