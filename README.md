@@ -34,7 +34,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 				'gaming',
 				'Watching series ',
 				'Reading networking books and Sci-Fi'
-				'Being up all Night chasing that ONE BUG...'
+				'Being up all Night coding on my dark IDLE...'
 			]
 	
 	def getCity():
