@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
+
+
 <h2> Hello, this is Yezz123  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img width="480" height="480" align='right' src="https://user-images.githubusercontent.com/52716203/88455539-f2e3e480-ce6d-11ea-9825-55b25f9caa05.jpg">
 I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level programmer , I love the world of coding. I am trying to create magic with 0's and 1's
 
