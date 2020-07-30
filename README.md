@@ -9,11 +9,17 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 
 [![Gmail Badge](https://img.shields.io/badge/-yasserth19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasserth19@gmail.com)](mailto:yasserth19@gmail.com)
 
-<a href="https://twitter.com/Thyasser1">
-  <img align="left" alt="yezz123 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 <a href="https://discord.gg/XXKxMpq">
-  <img align="left" alt="Yezz123's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="yezz123's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/THyasser1">
+  <img align="left" alt="Thyasser1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/froggy__19/">
+  <img align="left" alt="yezz123's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/SVWBEIII/">
+  <img align="left" alt="yezz123's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
 
@@ -48,6 +54,8 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 		Learn Germany()
 		Create SOProject()
 		Finish my old 1000 project 😅()
+		- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+		- 💬 Ask me about anything, I am happy to help;
 		
  ```
 
