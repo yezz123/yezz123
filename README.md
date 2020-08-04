@@ -12,23 +12,8 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 
 <br/>
 
-[![Gmail Badge](https://img.shields.io/badge/-yasserth19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasserth19@gmail.com)](mailto:yasserth19@gmail.com)
-
-<a href="https://discord.gg/XXKxMpq">
-  <img align="left" alt="yezz123's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/THyasser1">
-  <img align="left" alt="Thyasser1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/froggy__19/">
-  <img align="left" alt="yezz123's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/SVWBEIII/">
-  <img align="left" alt="yezz123's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 
 
----------------------
 
 ## :computer: Technologies I Love
 * developping using  C, C#, python, Flask, MySQL, Shellscript,
@@ -38,7 +23,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 ## Programming Languages
  <img src = 'https://image.flaticon.com/icons/svg/1822/1822899.svg' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/2721/2721194.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>  <img src = 'https://image.flaticon.com/icons/svg/513/513934.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/2970/2970533.svg' width='30'/>
  
----------------------
+
 
  ## Who am I?
  ```python
@@ -63,6 +48,22 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 		- 💬 Ask me about anything, I am happy to help;
 		
  ```
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-yasserth19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasserth19@gmail.com)](mailto:yasserth19@gmail.com)
+
+<a href="https://discord.gg/XXKxMpq">
+  <img align="left" alt="yezz123's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/THyasser1">
+  <img align="left" alt="Thyasser1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/froggy__19/">
+  <img align="left" alt="yezz123's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/SVWBEIII/">
+  <img align="left" alt="yezz123's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+
 
 
 ![yezz123's github stats](https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&hide=[%22issues%22])
