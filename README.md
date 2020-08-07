@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/52716203/89112038-4e593800-d455-11ea-862f-1e4e17786195.gif">
 
 
 <h2> Hello, this is Yezz123  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -75,7 +74,10 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
  
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yezz123" />
   </a>
+  
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/52716203/89112038-4e593800-d455-11ea-862f-1e4e17786195.gif">
+
+
 	
 
