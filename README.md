@@ -1,5 +1,14 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/52716203/89112038-4e593800-d455-11ea-862f-1e4e17786195.gif">
 
+<p align="center">
+  <br><img src="https://badges.pufler.dev/visits/yezz123/yezz123"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/yezz123"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/yezz123"></p>
+
+:moneybag: **Feeling Generous? Help Support Me** :moneybag:
+
+<a href="https://paypal.me/yassertahiri" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
+
+
 
 <h2> Hello, this is Yezz123  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -10,8 +19,6 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 
 
 <br/>
-
-
 
 
 ## :computer: Technologies I Love
