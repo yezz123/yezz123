@@ -1,7 +1,5 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/52716203/89112038-4e593800-d455-11ea-862f-1e4e17786195.gif">
 
-<p align="center">
-  <br><img src="https://badges.pufler.dev/visits/yezz123/yezz123"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/yezz123"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/yezz123"></p>
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
