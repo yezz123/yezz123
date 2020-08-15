@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/52716203/89112038-4e593800-d455-11ea-862f-1e4e17786195.gif">
-
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
