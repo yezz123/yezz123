@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/carlostocat.gif" height="160px" width="160px"></p>
+<p align="center"> <img src="https://media.giphy.com/media/PjOb95e10C8cwj7LX0/giphy.gif" height="160px" width="160px">
+
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
