@@ -11,7 +11,7 @@
 <h2> Hello, this is Yezz123  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
 
 I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level programmer , I love the world of coding. I am trying to create magic with 0's and 1's
 
