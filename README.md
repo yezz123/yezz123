@@ -49,7 +49,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 		Create SOProject()
 		Finish my old 1000 project 😅()
 		- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-		- 💬 Ask me about anything, I am happy to help;
+		- 💬 Ask me about anything, I am happy to help, contact me ;
 		
  ```
  
