@@ -1,10 +1,6 @@
 <p align="center"> <img src="https://media.giphy.com/media/PjOb95e10C8cwj7LX0/giphy.gif" height="160px" width="160px">
 
 
-:moneybag: **Feeling Generous? Help Support Me** :moneybag:
-
-<a href="https://paypal.me/yassertahiri" target="_blank">
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 
 
 
@@ -67,6 +63,13 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 <a href="https://www.reddit.com/user/SVWBEIII/">
   <img align="left" alt="yezz123's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+
+
+:moneybag: **Feeling Generous? Help Support Me** :moneybag:
+
+<a href="https://paypal.me/yassertahiri" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
+
 
 
 
