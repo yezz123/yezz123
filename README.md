@@ -65,7 +65,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 </a>
 
 
-:moneybag: **Feeling Generous? Help Support Me** :moneybag:
+----
 
 <a href="https://paypal.me/yassertahiri" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
