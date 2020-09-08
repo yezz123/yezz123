@@ -80,8 +80,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/yezz123/github-readme-stats)*
 
  
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yezz123" />
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
