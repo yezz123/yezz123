@@ -50,6 +50,17 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
  ```
  
 
+![yezz123's github stats](https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&hide=[%22issues%22])
+ 
+ 
+ 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/yezz123/github-readme-stats)*
+
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
 <a href="https://discord.gg/XXKxMpq">
   <img align="left" alt="yezz123's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -69,17 +80,6 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 
 
 
-
-![yezz123's github stats](https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&hide=[%22issues%22])
- 
- 
- 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/yezz123/github-readme-stats)*
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 
 <p align="center"><a href="https://github.com/yezz123"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
