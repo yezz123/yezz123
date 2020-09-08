@@ -49,7 +49,6 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 		
  ```
  
- [![Gmail Badge](https://img.shields.io/badge/-yasserth19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasserth19@gmail.com)](mailto:yasserth19@gmail.com)
 
 <a href="https://discord.gg/XXKxMpq">
   <img align="left" alt="yezz123's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -64,8 +63,6 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
   <img align="left" alt="yezz123's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-
-----
 
 <a href="https://paypal.me/yassertahiri" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
