@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.giphy.com/media/PjOb95e10C8cwj7LX0/giphy.gif" height="160px" width="160px">
+<p align="center"> <img src="https://media.giphy.com/media/GwPuDtNBj5kwq1dzGa/giphy.gif">
 
 
 
@@ -58,8 +58,7 @@ I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level pr
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
 
 <a href="https://discord.gg/XXKxMpq">
   <img align="left" alt="yezz123's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
