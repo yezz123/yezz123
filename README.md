@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
 
-I am Yasser Tahiri, a self taught programmer. Even though I am a Medium level programmer , I love the world of coding. I am trying to create magic with 0's and 1's
+I am Yasser Tahiri, a self taught programmer. Even though I am an enthusiast programmer , I love the world of coding. I am trying to create magic with 0's and 1's
 
 
 <br/>
