@@ -48,7 +48,7 @@
   <code><img src="https://img.shields.io/badge/THyasser1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></code>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=gotham"></a><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact&theme=gotham" /></a>
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=gruvbox"></a><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact&theme=gotham" /></a>
 
 
 
