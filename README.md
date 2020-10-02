@@ -71,7 +71,7 @@
   </a>
 </p>
 
-<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=gruvbox"></a><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact&theme=gotham" /></a>
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=gruvbox"></a><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact&theme=dracula" /></a>
 
 
 
