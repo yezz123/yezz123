@@ -5,7 +5,7 @@
  ```python
  class WhoAmI:
  	user = 'Yasser Tahiri'
-	current_edu = "Istag Bab Tizimi, Morocco"
+	current_edu = "DI"
 	hobbies = [
 				'gaming',
 				'Watching series ',
@@ -13,11 +13,11 @@
 				'Being up all Night coding on my dark IDLE...'
 			]
 	
-	def getCity():
-		retrun Meknes_Morocco()
+	def getCountry():
+		retrun Morocco()
 	
 	def Ambitions():
-		Learn Germany()
+		Learn Deutch()
 		Create SOProject()
 		Finish my old 1000 project 😅()
     
