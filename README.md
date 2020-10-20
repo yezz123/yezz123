@@ -77,4 +77,11 @@
 <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=gruvbox"></a>
 
 
+<p align="center">
+	<a href="https://hits.seeyoufarm.com">
+	 <code><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></code>
+		</a>
+</p>
+
+
 
