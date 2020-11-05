@@ -56,6 +56,9 @@
   <a href="https://en.wikipedia.org/wiki/CSS">
   <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
   </a>
+</p>
+
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/Django_(web_framework)">
   <code><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/></code>
   </a>
@@ -65,8 +68,17 @@
   <a href="https://en.wikipedia.org/wiki/MySQL">
   <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
   </a>
+</p>
+  
+<p align="center">
   <a href="https://github.com/yezz123">
   <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
+  </a>
+  <a href="https://www.markdownguide.org/">
+  <code><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
+  </a>
+  <a href="https://www.docker.com/">
+  <code><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
   </a>
 </p>
 
