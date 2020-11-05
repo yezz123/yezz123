@@ -47,6 +47,15 @@
   <a href="https://en.wikipedia.org/wiki/Shell_script">
   <code><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
   </a>
+  <a href="https://www.javascript.com/">
+  <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+  <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS">
+  <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
+  </a>
   <a href="https://en.wikipedia.org/wiki/Django_(web_framework)">
   <code><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/></code>
   </a>
