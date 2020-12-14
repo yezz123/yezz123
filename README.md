@@ -14,7 +14,7 @@ I just love hacking and breaking the rules, but don’t get me wrong as I said I
 
 Now i try to be inside Machine Learning and Deep Learning also understand some other languages like Rust Haskell also why not Scala and Matlab.</i>
 
-## Why i love this :
+## Why i love this <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="30px">:
 
 <i>For me programming is future & help human into breaking things and know a lot.
 I love reading Sci-fi Books and Books related to technology.
@@ -22,7 +22,7 @@ I love reading Sci-fi Books and Books related to technology.
 One of those book that made me love that world <b>Social Engineering: The Art of Human Hacking</b> by <b>Christopher J. Hadnagy</b>.</i>
 [<p align="center"> <img src="https://github.com/yezz123/yezz123/blob/master/img\The Art of Human Hacking.jpg" width="166.5" height="249.5">](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 
-## Project :
+## Project <img src="https://media.giphy.com/media/gH85KtY9fX2yd9eG4F/giphy-downsized.gif" width="30px">:
 
 <i>I made a lot of open-source that i want to share with all the Github User's .
 
@@ -65,7 +65,7 @@ For me I love made different things into different OS that why i made Some proje
 -   [Yezz123 Website](https://github.com/yezz123/yezz123.github.io) : Create a website hosted by github.
 -   [GDGSNF Website](https://github.com/GDGSNF/GDGSNF.github.io) : The Official website of GDGSNF.
 
-## Contribution activity :
+## Contribution activity <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">:
 
 <i>Most of my Contributation into [GDGSNF](https://github.com/GDGSNF) an organisation that create some open source based on python and shell and some web development language also we do some security issues.</i>
 
@@ -81,7 +81,7 @@ For me I love made different things into different OS that why i made Some proje
 -   [Adding 2 project #78](https://github.com/DevC-Casa/awesome-morocco/pull/78) : 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
 -   [Update README.md #6](https://github.com/harisqazi1/Cybersecurity/pull/6)
 
-## Stat :
+## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
 <p align="center">
 
