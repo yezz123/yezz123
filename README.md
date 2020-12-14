@@ -65,6 +65,14 @@ For me I love made different things into different OS that why i made Some proje
 -   [Yezz123 Website](https://github.com/yezz123/yezz123.github.io) : Create a website hosted by github.
 -   [GDGSNF Website](https://github.com/GDGSNF/GDGSNF.github.io) : The Official website of GDGSNF.
 
+## Contribution activity :
+
+<i>Most of my Contributation into [GDGSNF](https://github.com/GDGSNF) an organisation that create some open source based on python and shell and some web development language also we do some security issues.</i>
+
+### My last pull request :
+-   [Add More Resources #2]https://github.com/harisqazi1/Cybersecurity/pull/2) : This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
+-   [add fr-FR translation for README.md #50](https://github.com/rocky-linux/rocky/pull/50) : Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
+
 ## Stat :
 
 <p align="center">
