@@ -16,8 +16,8 @@ Now i try to be inside Machine Learning and Deep Learning also understand some o
 
 ## Why i love this :
 
-<i>For me programmation is future & help human into breaking things and know a lot.
-I love reading Sci-fi Books and Books related to technologie.
+<i>For me programming is future & help human into breaking things and know a lot.
+I love reading Sci-fi Books and Books related to technology.
 
 One of those book that made me love that world <b>Social Engineering: The Art of Human Hacking</b> by <b>Christopher J. Hadnagy</b>.</i>
 [<p align="center"> <img src="https://github.com/yezz123/yezz123/blob/master/img\The Art of Human Hacking.jpg" width="166.5" height="249.5">](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
