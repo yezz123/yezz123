@@ -8,7 +8,7 @@
 
 I mainly write code for Desktop applications for linux or windows & that based on my mood.
 
-I prefer python & C but i code also with HTML & CSS & JavaScript & Shell Script special.
+I prefer python & C but i code also with HTML & CSS & JavaScript & Shell Script.
 
 I just love hacking and breaking the rules, but don’t get me wrong as I said I am an ethical hacker.
 
@@ -20,7 +20,7 @@ Now i try to be inside Machine Learning and Deep Learning also understand some o
 I love reading Sci-fi Books and Books related to technologie.
 
 One of those book that made me love that world <b>Social Engineering: The Art of Human Hacking</b> by <b>Christopher J. Hadnagy</b>.</i>
-<p align="center"> <img src="https://github.com/yezz123/yezz123/blob/master/img\The Art of Human Hacking.jpg">
+<p align="center"> <img src="https://github.com/yezz123/yezz123/blob/master/img\The Art of Human Hacking.jpg" width="166.5" height="249.5">
 
 ## Project :
 
@@ -66,19 +66,12 @@ For me I love made different things into different OS that why i made Some proje
 -   [GDGSNF Website](https://github.com/GDGSNF/GDGSNF.github.io) : The Official website of GDGSNF.
 
 ## Stat :
-<details><summary><b>My Github Stat :</b></summary>
-<p>
 
 <p align="center">
 
-![yezz123's github stats](https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&hide=[%22issues%22])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=gotham"></a>
 
 </p>
-
-</p>
-</details>
 
 
 <p align="center">
