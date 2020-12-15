@@ -80,6 +80,7 @@ For me I love made different things into different OS that why i made Some proje
 
 -   [Adding 2 project #78](https://github.com/DevC-Casa/awesome-morocco/pull/78) : 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
 -   [Update README.md #6](https://github.com/harisqazi1/Cybersecurity/pull/6)
+-   [Creating a language Menu #89](https://github.com/rocky-linux/rocky/pull/89)
 
 ## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
