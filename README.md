@@ -77,7 +77,9 @@ For me I love made different things into different OS that why i made Some proje
 -   [Creating a language Menu #89](https://github.com/rocky-linux/rocky/pull/89) : Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 -   [Adding 2 project #78](https://github.com/DevC-Casa/awesome-morocco/pull/78) : 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
 
-<!--- <i>Opened Request:</i> -->
+<i>Opened Request:</i>
+
+-   [Add Athena Project #79](https://github.com/DevC-Casa/awesome-morocco/pull/79) 
 
 ## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
