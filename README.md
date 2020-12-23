@@ -79,6 +79,10 @@ For me I love made different things into different OS that why i made Some proje
 
 <!---<i>Opened Request:</i>-->
 
+<i>Opened Request:</i>
+
+-   [Add Slack link #82](https://github.com/DevC-Casa/awesome-morocco/pull/82)
+
 
 ## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
