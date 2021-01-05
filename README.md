@@ -77,7 +77,12 @@ For me I love made different things into different OS that why i made Some proje
 -   [Creating a language Menu #89](https://github.com/rocky-linux/rocky/pull/89) : Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 -   [Add Slack link #82](https://github.com/DevC-Casa/awesome-morocco/pull/82) : 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
 
+<i>Opened Request:</i>
+
+-   [Adding pentest-ec2-manager🔑 #1](https://github.com/F0rbidden-Equation/Pentesting-Exploitation/pull/1) : Programs and Commands , Protocols Network / Ports
+
 <!---<i>Opened Request:</i>-->
+
 
 ## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
