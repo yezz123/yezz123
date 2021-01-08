@@ -82,6 +82,10 @@ For me I love made different things into different OS that why i made Some proje
 -   [Adding pentest-ec2-manager🔑 #1](https://github.com/F0rbidden-Equation/Pentesting-Exploitation/pull/1) : Programs and Commands , Protocols Network / Ports
 -   [New Update for ReadMe.md #7](https://github.com/harisqazi1/Cybersecurity/pull/7) : This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
 
+<i>Some article :</i>
+-   [How Home Security Cameras Get Hacked?](https://yassertahiri.medium.com/how-home-security-cameras-get-hacked-6b7b3490fc47) : Hacking has been an alarming threat to the world for a long time. In this era, when all of your precious data is on the internet your priority is always about securing your data from falling into the wrong hands......
+
+
 <!---<i>Opened Request:</i>-->
 
 
