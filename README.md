@@ -97,10 +97,11 @@ For me I love made different things into different OS that why i made Some proje
 </p>
 
 
-<p align="center">
+<!---<p align="center">
   <a href="https://www.instagram.com/froggy__19/">
     <img src="https://simpleicons.org/icons/instagram.svg" width="30" height="30">
-    </a>
+    </a>-->
+    
   <a href="https://www.linkedin.com/in/yasser-tahiri-14765b1a0/">
     <img src="https://simpleicons.org/icons/linkedin.svg" width="30" height="30">
     </a>
