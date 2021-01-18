@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/yezz123/yezz123/blob/master/img/Cover.png">
+</p>
+
 ## Introduction <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">:
 
 <i>It's my pleasure to introduce my self..well, My name is <b>Yasser Tahiri. </b>
