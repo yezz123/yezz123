@@ -78,7 +78,6 @@ For me I love made different things into different OS that why i made Some proje
 
 <i>Opened Request:</i>
 
--   [Adding pentest-ec2-manager🔑 #1](https://github.com/F0rbidden-Equation/Pentesting-Exploitation/pull/1) : Programs and Commands , Protocols Network / Ports
 -   [New Update for ReadMe.md #7](https://github.com/harisqazi1/Cybersecurity/pull/7) : This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
 
 <i>Some article :</i>
