@@ -47,6 +47,8 @@ For me I love made different things into different OS that why i made Some proje
 -   [SpyDroid](https://github.com/yezz123/SpyDroid) : is Backdoor Crypter & Creator with Automatic IP Poisener.
 -   [CryptoPass](https://github.com/yezz123/CryptoPass) : Get unencrypted 'Saved Password' from Google Chrome.
 -   [Spy](https://github.com/yezz123/spy) : Remote access trojan written in python with auto persistence option.
+-   [WPA2](https://github.com/yezz123/WPA2) : penetration testing utilities.
+-   [ShitCrypt](https://github.com/yezz123/ShitCrypt) : I don't know what the f**k is this but i write it using my hand sleeping
 
 ### Windows things :
 -   [Support](https://github.com/Collector0/Support) : Experience of using C# to build a Desktop Application.
