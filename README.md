@@ -77,9 +77,6 @@ For me I love made different things into different OS that why i made Some proje
 
 -   [Creating a language Menu #89](https://github.com/rocky-linux/rocky/pull/89) : Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 -   [Add Slack link #82](https://github.com/DevC-Casa/awesome-morocco/pull/82) : 👩‍💻 🇲🇦List of awesome Moroccan things for developers 🇲🇦👨🏻‍💻
-
-<i>Opened Request:</i>
-
 -   [New Update for ReadMe.md #7](https://github.com/harisqazi1/Cybersecurity/pull/7) : This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.
 
 <i>Some article :</i>
