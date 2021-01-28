@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/yezz123/yezz123/blob/master/img/Cover.jpg">
+<img src="https://github.com/yezz123/yezz123/blob/master/img/Cover.png">
 </p>
 
 ## Introduction <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">:
