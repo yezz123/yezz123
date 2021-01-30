@@ -81,6 +81,7 @@ For me I love made different things into different OS that why i made Some proje
 
 <i>Some article :</i>
 -   [How Home Security Cameras Get Hacked?](https://yassertahiri.medium.com/how-home-security-cameras-get-hacked-6b7b3490fc47) : Hacking has been an alarming threat to the world for a long time. In this era, when all of your precious data is on the internet your priority is always about securing your data from falling into the wrong hands......
+-   [Cracking WPA/WPA2 Using the GPU](https://yassertahiri.medium.com/cracking-wpa-wpa2-using-the-gpu-c19441551dd7) : We all know we can use aircrack-ng to run a wordlist attack to crack WPA/WPA2, in this article I’m going to show you how to do the same using a tool called HashCat, and compare its speed with aircrack-ng............
 
 
 <!---<i>Opened Request:</i>-->
