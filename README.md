@@ -2,7 +2,9 @@
 <img src="https://github.com/yezz123/yezz123/blob/master/img/Cover.png">
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yezz123&theme=monokai&margin-w=15)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yezz123&theme=monokai&margin-w=15">
+</p>
 
 ## Introduction <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">:
 
