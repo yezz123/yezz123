@@ -2,6 +2,8 @@
 <img src="https://github.com/yezz123/yezz123/blob/master/img/Cover.png">
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=yezz123&theme=monokai&margin-w=15)
+
 ## Introduction <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">:
 
 <i>It's my pleasure to introduce my self..well, My name is <b>Yasser Tahiri. </b>
