@@ -26,6 +26,4 @@
 <p align="center">
 <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&theme=dracula">
 </p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yezz123&theme=flat&margin-w=15">
-</p>
+
