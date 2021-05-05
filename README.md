@@ -10,6 +10,10 @@
 -   [How to Discover Device Manufacturer Based on MAC Address ?](https://yassertahiri.medium.com/how-to-discover-device-manufacturer-based-on-mac-address-bf4f86fdf6c5) : Need some little help with figuring which of the computers on the network is the apple device just using a MAC address? Have a look at this post as it might have a little tip for you.
 -   [Creating a Vulnerability Management Strategy](https://yassertahiri.medium.com/creating-a-vulnerability-management-strategy-dd531022d7b9) : Often, an exploitation of a vulnerability might lead to a disaster recovery scenario. Therefore, it is imperative to have a system in place that can prevent the vulnerabilities from being exploited in the first place.
 -   [How To Start a Fake Access Point (Fake WIFI)?](https://yassertahiri.medium.com/how-to-start-a-fake-access-point-fake-wifi-f91c1e69169f) If you are in a random place and happened to be connected to an open network, it doesn’t matter what device you are connected with, your data will be visible to the person who is controlling the access point.
+
+## Some Talks <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">:
+
+-   [Measures of Secure Coding & How to apply Secure Coding Standards?](https://docs.google.com/presentation/d/1InokHXq7pAvF0kTmmxiu_hHmC374xtl4l6m_tLT4ZEU/edit?usp=sharing) Up to 90% of software security problems are caused by coding errors, which is why secure coding practices and secure coding standards are essential.
 <p align="center">
     <a href="https://yassertahiri.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
