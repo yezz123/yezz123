@@ -11,12 +11,6 @@
 
 -   [Measures of Secure Coding & How to apply Secure Coding Standards?](https://docs.google.com/presentation/d/1InokHXq7pAvF0kTmmxiu_hHmC374xtl4l6m_tLT4ZEU/edit?usp=sharing) Up to 90% of software security problems are caused by coding errors, which is why secure coding practices and secure coding standards are essential.
 
-## Stat <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
-
-<p align="center">
-<img src="https://metrics.lecoq.io/yezz123?template=classic&base.metadata=0&languages=1&lines=1&people=1&languages.ignored=html%2Ccss%2Cbrainfuck&languages.limit=8&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&config.timezone=Africa%2FCasablanca">
-</p>
-
 <p align="center">
     <a href="https://yassertahiri.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
