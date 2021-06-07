@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/yezz123/yezz123/master/img/background.gif">
+    <img src="img/school-of-athens.jpg" alt="School of Athena">
 </p>
 
 ## Some articles <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">
