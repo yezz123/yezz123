@@ -15,6 +15,7 @@
 ## Some Talks <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">
 
 - [Measures of Secure Coding & How to apply Secure Coding Standards?](https://docs.google.com/presentation/d/1InokHXq7pAvF0kTmmxiu_hHmC374xtl4l6m_tLT4ZEU/edit?usp=sharing) :Up to 90% of software security problems are caused by coding errors, which is why secure coding practices and secure coding standards are essential.
+- [EasyBooking - School Project](https://easybooking-slides.netlify.app/) : A final year project Created by Me, [Naoui Mohammed](https://github.com/NaouiMohammed) and [Moutawakkil Mohammed](https://github.com/mohammedmoutawakkil). EasyBooking gives you amazing diversity and variety of choices – all in one place.
 
 <p align="center">
     <a href="https://yassertahiri.medium.com/">
