@@ -1,8 +1,6 @@
-<p align="center"> 
-    <img src="img/school-of-athens.jpg" alt="School of Athena">
-</p>
+![Header](img/header.svg)
 
-## Some articles <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">
+## Articles :rocket:
 
 - [Build and Secure an API in Python with FastAPI](https://yassertahiri.medium.com/build-and-secure-an-api-in-python-with-fastapi-d1d108a04b01) : As Python grows in popularity, the variety of high-quality frameworks available to developers has blossomed. In addition to steadfast options like Django and Flask, there are many new options including FastAPI.
 - [Story of Athena](https://yassertahiri.medium.com/story-of-athena-59f950017a0c) : is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker , Coder and Warrior.
@@ -12,18 +10,7 @@
 - [Creating a Vulnerability Management Strategy](https://yassertahiri.medium.com/creating-a-vulnerability-management-strategy-dd531022d7b9) : Often, an exploitation of a vulnerability might lead to a disaster recovery scenario. Therefore, it is imperative to have a system in place that can prevent the vulnerabilities from being exploited in the first place.
 - [How To Start a Fake Access Point (Fake WIFI)?](https://yassertahiri.medium.com/how-to-start-a-fake-access-point-fake-wifi-f91c1e69169f) : If you are in a random place and happened to be connected to an open network, it doesn’t matter what device you are connected with, your data will be visible to the person who is controlling the access point.
 
-## Some Talks <img src="https://media.giphy.com/media/Z6wxlelBagpIa4HNhV/giphy.gif" width="30px">
+## Talks :rocket:
 
 - [Measures of Secure Coding & How to apply Secure Coding Standards?](https://docs.google.com/presentation/d/1InokHXq7pAvF0kTmmxiu_hHmC374xtl4l6m_tLT4ZEU/edit?usp=sharing) :Up to 90% of software security problems are caused by coding errors, which is why secure coding practices and secure coding standards are essential.
 - [EasyBooking - School Project](https://easybooking-slides.netlify.app/) : A final year project Created by Me, [Naoui Mohammed](https://github.com/NaouiMohammed) and [Moutawakkil Mohammed](https://github.com/mohammedmoutawakkil). EasyBooking gives you amazing diversity and variety of choices – all in one place.
-
-<p align="center">
-    <a href="https://yassertahiri.medium.com/">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
-    <a href="https://twitter.com/THyasser1">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
-    <a href="https://discord.gg/6jBUgnz5ag">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/yezz123/">   
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
