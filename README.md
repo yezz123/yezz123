@@ -12,7 +12,17 @@
 - [What the Hell is WSGI Benchmark?](https://blog.yezz.me/blog/What-the-hell-is-WSGI) : WSGI is the Web Server Gateway Interface. It is a specification that describes how a web server communicates with web applications, and how web applications can be chained together to process one request.
 - [Start a Software application for Business](https://blog.yezz.me/blog/Start-a-Software-application-for-business) : Software application for businesses Application software focused on businesses is implementations IT departments use to enhance business productivity, searching for superior performance and devoted to create value and therefore competitive advantage.
 
+<p align="center">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=yezz123&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
 ## Talks
 
 - [Measures of Secure Coding & How to apply Secure Coding Standards?](https://docs.google.com/presentation/d/1InokHXq7pAvF0kTmmxiu_hHmC374xtl4l6m_tLT4ZEU/edit?usp=sharing) :Up to 90% of software security problems are caused by coding errors, which is why secure coding practices and secure coding standards are essential.
 - [EasyBooking - School Project](https://easybooking-slides.netlify.app/) : A final year project Created by Me, [Naoui Mohammed](https://github.com/NaouiMohammed) and [Moutawakkil Mohammed](https://github.com/mohammedmoutawakkil). EasyBooking gives you amazing diversity and variety of choices – all in one place.
+
+<br>
+
+<p align="center">
+<a href="https://discord.gg/2x32TdfB57"> <img  align="center" src="https://discord.com/api/guilds/820771517516087316/widget.png?style=banner2"  height="60" width="260" alt="Discord Banner 2"/></a>
+</p>
