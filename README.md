@@ -1,4 +1,6 @@
-![Header](img/header.svg)
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/yezz123/yezz123/master/img/school-of-athens.jpg">
+</p>
 
 ---
 ### Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
@@ -27,14 +29,3 @@
 - [Yezz's Blog](https://blog.yezz.me/) on Blog.
 - [@THyasser1](https://twitter.com/THyasser1) on Twitter.
 - [@yezz123](https://www.linkedin.com/in/yezz123/) on Linkedin.
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.yezz.me/)
-
----
