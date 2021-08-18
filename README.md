@@ -11,18 +11,6 @@
 - 🛠 Founder at [@BnademOverFlow](https://bnademoverflow.com/)
 - 👥 Core team member at [@GDGSNF](https://gdgsnf.tech/)
 
----
-
-### Skills
-
-- 👨‍💻 Python, JavaScript, C, Shell
-- ⚙️ Django, Flask, FastAPI, NodeJS
-- 👁️ HTML, CSS, SCSS
-- 💽 PostgreSQL, SQLite, MongoDB
-- 🔐 Code Security, Vulnerability, Encryption
-
----
-
 ### Reach me
 
 - [Email](mailto:yasserth19@gmail.com) on Email.
