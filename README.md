@@ -9,6 +9,6 @@
 
 ### You can reach me out at:
 
-- [Email](mailto:yasserth19@gmail.com) on Email.
+- [yasserth19@gmail.com](mailto:yasserth19@gmail.com) on Email.
 - [@THyasser1](https://twitter.com/THyasser1) on Twitter.
 - [@yezz123](https://www.linkedin.com/in/yezz123/) on Linkedin.
