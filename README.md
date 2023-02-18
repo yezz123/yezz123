@@ -1,6 +1,6 @@
-## Hey, Yezz123 here! :wave:
+### Hey, Yezz123 here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=yezz123&theme=dark&show_icons=true">](https://metrics.lecoq.io/yezz123)
+---
 
 I'm Y**ass**er T**a**h**ir**i, Also known as Yezz123, a Software Engineer, Comedian 🤡 by day, OSS 🛠 by night.
 
