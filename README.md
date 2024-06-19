@@ -1,15 +1,7 @@
-### Hey, Yezz123 here! :wave:
-
----
-
-I'm Y**ass**er T**a**h**ir**i, Also known as Yezz123, a Software Engineer, Comedian 🤡 by day, OSS 🛠 by night.
-
--   :hammer_and_pick: Python / C++ / JavaScript / Rust.
--   :pencil2: Read to Know The [Tech & Tools I use](https://blog.yezz.me/blog/Tech-and-Tools-I-Use).
--   :seedling: I help founders add value by crafting using [Python tools](https://github.com/yezz123).
--   :thought_balloon: Ask me anything at [@Twitter](https://twitter.com/THyasser1)!
--   :key: GPG key: [`mQINBGEvjd8BEADja5Cz`](https://github.com/yezz123.gpg)
--   :anatomical_heart: Sponsor me [![Sponsor](https://img.shields.io/badge/-Sponsor-pink?style=plastic&logo=Github&logoColor=white&link=https://github.com/sponsors/yezz123)](https://github.com/sponsors/yezz123)
-
-
----
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=yezz123&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yezz123&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=yezz123&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
